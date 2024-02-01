@@ -1,4 +1,4 @@
 # ML_Devanand
-My journey in ML 
+ML Basics
 
 Covering ML libraries
