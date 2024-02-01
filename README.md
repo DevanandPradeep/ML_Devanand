@@ -1,2 +1,2 @@
 # ML_Devanand
-My journey in ML basics
+My journey in ML 
